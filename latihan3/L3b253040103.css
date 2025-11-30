@@ -1,0 +1,30 @@
+body {
+    background-color: aqua;
+    font-family: Georgia, ;
+
+}
+
+h1{
+    font-family: "Comic San MS";
+    font-size: 60px;
+    color: darkblue;
+}
+h4{
+    text-align: right;
+}
+p {
+    text-align: center;
+}
+#adalah{
+    color: orange;
+}
+h3 {
+    font-variant: small-caps;
+}
+#mau{
+    text-align: right;
+    line-height: 20px;
+}
+#adalah3{
+    color: white;
+}
