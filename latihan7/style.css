@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c1145f;
+}
+
+#gallery {
+  background-color: #e1d4dd;
+}
+
+footer {
+  background-color: rgb(255, 0, 166);
+}
+
+section {
+  padding-top: 6rem;
+}
